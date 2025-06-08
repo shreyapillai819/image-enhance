@@ -1,6 +1,6 @@
 
 
-# High-Definition Image Enhancer
+# Image Enhancer
 
 ## Overview
 
