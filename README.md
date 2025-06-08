@@ -16,8 +16,8 @@ This web application enhances low-resolution images by generating high-definitio
 
 ## Getting Started
 
-1. Install the required packages, ideally using a `requirements.txt` file.
-2. Run the Streamlit app with the command:
+
+1. Run the Streamlit app with the command:
 
    ```bash
    streamlit run application.py
