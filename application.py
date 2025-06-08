@@ -10,9 +10,9 @@ def predict(img):
         return (Image.fromarray(sr_img))
 
 
-st.title("Super Resolution GAN ")
-st.subheader("Upload an image which you want to upscale")   
-st.spinner("Testing spinner")
+st.title("Image-Enhance")
+st.subheader("Upload an image ")   
+st.spinner("Testing ")
 
 uploaded_file = st.file_uploader("Choose an image...", type=("jpg", "png", "jpeg"))
 
